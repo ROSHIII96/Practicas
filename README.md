@@ -1,3 +1,4 @@
 # Practicas
-Esto es para los borradores \n
+Esto es para los borradores
+
 Ya se como crea repositorios
